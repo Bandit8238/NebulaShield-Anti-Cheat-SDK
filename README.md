@@ -1,4 +1,5 @@
-# NebulaShield-Anti-Cheat-SDK
+# NebulaShield-Anti-Cheat-SDK 
+(DISCONTINUING THIS PROJECT AS IT IS NO LONGER IN DEV DUE TO A BUNCH OF SYNTAX ERRORS IN OUR PRE WRITTEN FILES) were so sorry Please dm me at _zach_2011 on discord if you have any questions about it other then that feel free to fork it and take credit for yourself!
 
 # 🛡️ NebulaShield Anti-Cheat SDK
 
